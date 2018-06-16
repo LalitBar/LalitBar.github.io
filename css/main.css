@@ -26,8 +26,6 @@
 
 /******** GENERAL SETTINGS SECTION START ********/
 
-background-color: #5c5c5c;
-
 .no-padding {
     padding: 0;
 }
@@ -50,7 +48,7 @@ p {
 /******** JUMBOTRON SECTION START ********/
 
 .jumbotron {
-	// background: url('../img/placeholderbg.jpg') no-repeat center center;
+	/* background: url('../img/placeholderbg.jpg') no-repeat center center; */
 	background-size: cover;
     background-attachment: fixed; 
 	width: auto;
