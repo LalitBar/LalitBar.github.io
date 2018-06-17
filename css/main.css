@@ -52,8 +52,8 @@ p {
 	background-size: cover;
     background-attachment: fixed; 
 	width: auto;
-	min-height: 800px;
-    background-color: #1b1b1b;
+	/*min-height: 800px;
+    background-color: #1b1b1b;*/
     margin: 0;
 }
 
