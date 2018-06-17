@@ -25,6 +25,10 @@
 
 
 /******** GENERAL SETTINGS SECTION START ********/
+body
+{
+	background-color: #6d6d6d;
+}
 
 .no-padding {
     padding: 0;
@@ -50,11 +54,11 @@ p {
 .jumbotron {
 	/* background: url('../img/placeholderbg.jpg') no-repeat center center; */
 	background-size: cover;
-    background-attachment: fixed; 
+	background-attachment: fixed; 
 	width: auto;
-	/*min-height: 800px;
-    background-color: #1b1b1b;*/
-    margin: 0;
+	/*min-height: 800px;*/
+	background-color: #6d6d6d;
+	margin: 0;
 }
 
 .jumbotron h2 {
